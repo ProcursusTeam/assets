@@ -5,6 +5,6 @@
 
 Background color: #5d5762
 
-# Copyright
+### Copyright
 
 All assets are available under CC-BY-SA
