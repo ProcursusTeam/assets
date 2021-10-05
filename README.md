@@ -6,6 +6,8 @@
 
 Background color: #5d5762
 
+![Procursus-chan](https://github.com/ProcursusTeam/assets/blob/main/Procursus-chan.png?raw=true)
+
 ### Copyright
 
 All assets are available under CC-BY-SA
