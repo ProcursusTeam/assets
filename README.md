@@ -4,3 +4,7 @@
 - Procursus-m1.png - Table on M1 - [stkc](https://stkc.win/)
 
 Background color: #5d5762
+
+# Copyright
+
+All assets are available under CC-BY-SA
